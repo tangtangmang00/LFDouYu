@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         print("合并内容，测试次")
         print("错与对,食欲非")
     }
+    
+    func test() {
+        
+    }
 
 
 }
