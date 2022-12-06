@@ -11,7 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("hhaah")
+        print("合并内容")
+        print("错与对")
     }
 
 
