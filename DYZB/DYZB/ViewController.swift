@@ -18,7 +18,9 @@ class ViewController: UIViewController {
     func test() {
         
     }
+}
 
-
+extension ViewController {
+    
 }
 
