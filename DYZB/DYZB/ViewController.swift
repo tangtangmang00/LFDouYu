@@ -24,3 +24,9 @@ extension ViewController {
     
 }
 
+extension ViewController {
+    func btnClick() {
+    
+    }
+}
+
